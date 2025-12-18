@@ -1,0 +1,9 @@
+* clad
+
+Common Lisp Application/Library Descriptor.
+
+|---------+-----------------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/mantoniotti/CLAD.git   |
+| commit  | 45c9a6a                                                   |
+| systems | clad                                                      |
+|---------+-----------------------------------------------------------|
